@@ -1,6 +1,6 @@
 <div align="center"> 
-   <img  src="https://github.com/HarshalRudra30/Near-Earth-Objects/blob/master/temp/deep-learning.svg">
-   <img  src="https://github.com/HarshalRudra30/Near-Earth-Objects/blob/master/temp/astronomy.svg">
+   <img  src="/temp/deep-learning.svg">
+   <img  src="/temp/astronomy.svg">
    
 </div>
 
@@ -14,9 +14,12 @@ There is an infinite number of objects in the outer space. Some of them are clos
 
 ## Dataset
 This dataset compiles the list of NASA certified asteroids that are classified as the nearest earth object.
-<img width="750" height="200" src="https://github.com/HarshalRudra30/Near-Earth-Objects/blob/master/temp/dataset.png">
+<img width="750" height="200" src="/temp/dataset.png">
 
 ## Models:
+
+<img align="right" src="/temp/Near Earth Asteroids.jpg" width="350" height="200">
+
 | Model                        |  Accuracy      
 | -----------------------------|  -------------| 
 | Using Bayes Theorem          |  90.41        |
