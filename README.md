@@ -5,7 +5,7 @@
 </div>
 
 <div align="center"> 
-  <h1>Near Earth Object Classifier</h1>
+  <h1>Hawking</h1>
    <img height=300 width=100% src="/temp/comets.gif">
 </div>
 
